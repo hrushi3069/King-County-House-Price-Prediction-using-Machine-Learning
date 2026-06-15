@@ -128,7 +128,7 @@ Location-based features such as zipcode, latitude, and longitude may reflect his
 ---
 
 ## Tools & Technologies
-
+- Google Colab
 - Python
 - Pandas, NumPy
 - Scikit-learn
